@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+# Local environments
+.venv/
+venv/
+.python-version
+
+# Training outputs
+rl_logs/
+ppo_triple_pendulum*.zip
+ppo_triple_pendulum*.vecnormalize.pkl
+ppo_triple_pendulum*.meta.json
+
